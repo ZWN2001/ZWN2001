@@ -3,7 +3,7 @@
 Welcome to visit [my blog](https://zwn2001.github.io/)
 
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:40%;" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:10%;" />
 
 You can also find it in my repository. By reading my blog, you can find more things about me and my interests.
 

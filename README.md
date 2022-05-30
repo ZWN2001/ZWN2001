@@ -3,14 +3,15 @@
 Welcome to visit [my blog](https://zwn2001.github.io/)
 
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:10%;" />
-
 You can also find it in my repository. By reading my blog, you can find more things about me and my interests.
 
 
 More details:
 
 ![Metrics](https://metrics.lecoq.io/ZWN2001?template=classic&config.timezone=Asia%2FShanghai)
+
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:10%;" />
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

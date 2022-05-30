@@ -2,6 +2,8 @@
 
 Welcome to visit [my blog](https://zwn2001.github.io/)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 You can also find it in my repository. By reading my blog, you can find more things about me and my interests.
 
 A card which is very hot recently:

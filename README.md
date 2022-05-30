@@ -11,3 +11,5 @@ A card which is very hot recently:
 More details:
 
 ![Metrics](https://metrics.lecoq.io/ZWN2001?template=classic&config.timezone=Asia%2FShanghai)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)

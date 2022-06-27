@@ -1,6 +1,6 @@
 ## Hi 你们好 👋
 
-Welcome to visit [my blog](https://zwn2001.github.io/)
+Welcome to visit [my blog](https://zwn2001.github.io/)，**but make sure that you are proficient in Chinese**.
 
 
 You can also find it in my repository. By reading my blog, you can find more things about me and my interests.

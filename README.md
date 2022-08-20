@@ -3,6 +3,9 @@
 Welcome to visit [my blog](https://zwn2001.github.io/)，or [this url for faster visit](https://zwn-2001-github-io.vercel.app)**，or https://www.zwn-blog.xyz/ ，but make sure that you are proficient in Chinese**.
 
 
+Most of the  repositories come from my courses task,they might work for you
+
+
 You can also find it in my repository. By reading my blog, you can find more things about me and my interests.
 
 

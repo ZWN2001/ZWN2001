@@ -23,10 +23,6 @@ My email:
 
 More details:
 
-(this pic is hard to load, but maybe you can try to refresh)
-
-![Metrics](https://metrics.lecoq.io/ZWN2001?template=classic&config.timezone=Asia%2FShanghai)
-
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:10%;" />
 

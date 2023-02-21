@@ -8,6 +8,10 @@ Most of the  repositories come from my courses task,they might work for you
 
 You can also find it in my repository. By reading my blog, you can find more things about me and my interests.
 
+isdu developer
+
+目前主要进行i山大开发维护&考研
+
 >I thought I were no more than a bystander Till I felt a touch so real
 >
 >I will no longer be a transient When I see smiles with tears

@@ -1,6 +1,6 @@
 ## Hi 你们好 👋
 
-Welcome to visit [my blog](https://zwn2001.github.io/)，or [this url for faster visit](https://zwn-2001-github-io.vercel.app)**，or [[https://www.zwn-blog.xyz/](https://www.zwn2001.space/)](https://www.zwn2001.space/) ，but make sure that you are proficient in Chinese**.
+Welcome to visit [my blog](https://zwn2001.github.io/)，or [this url for faster visit](https://zwn-2001-github-io.vercel.app)**，or [https://www.zwn-blog.xyz/](https://www.zwn2001.space/) ，but make sure that you are proficient in Chinese**.
 
 
 Most of the  repositories come from my courses task,they might work for you

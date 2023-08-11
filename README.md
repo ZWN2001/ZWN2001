@@ -6,9 +6,9 @@ Welcome to visit [my blog](https://zwn2001.github.io/)，or [this url for faster
 Most of the  repositories come from my courses task,they might work for you
 
 
-You can also find it in my repository. By reading my blog, you can find more things about me and my interests.
+By reading my blog, you can find more things about me and my interests.
 
-used to be isdu developer
+ex-isdu-developer
 
 >I thought I were no more than a bystander Till I felt a touch so real
 >

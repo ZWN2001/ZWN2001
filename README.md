@@ -8,7 +8,8 @@ Most of the  repositories come from my courses task,they might work for you
 
 By reading my blog, you can find more things about me and my interests.
 
-ex-isdu-developer
+- isdu-developer（2021-2023）
+- 2024 plan :Android & Flutter
 
 >I thought I were no more than a bystander Till I felt a touch so real
 >
@@ -24,8 +25,6 @@ My email:
 
 
 More details:
-
-![Metrics](https://metrics.lecoq.io/ZWN2001?template=classic&config.timezone=Asia%2FShanghai)
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:10%;" width="800px"/>
 

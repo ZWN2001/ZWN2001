@@ -9,7 +9,7 @@ Most of the  repositories come from my courses task,they might work for you
 By reading my blog, you can find more things about me and my interests.
 
 - isdu-developer（2021-2023）
-- 2024 plan :Android & Flutter
+- 2024 plan : Android & Flutter
 
 >I thought I were no more than a bystander Till I felt a touch so real
 >
@@ -18,10 +18,6 @@ By reading my blog, you can find more things about me and my interests.
 >If I have never known the sore of farewell and pain of sacrifices
 >
 >What else should I engrave on my mind
-
-My email:
-  - 2134356214@qq.com
-  - zwn2134356214@gmail.com
 
 
 More details:

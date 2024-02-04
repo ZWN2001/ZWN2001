@@ -8,7 +8,7 @@ Most of the  repositories come from my courses task,they might work for you
 
 By reading my blog, you can find more things about me and my interests.
 
-- isdu-developer（2021-2023）
+- isdu-developer（2021-2023）（现在属于只啃硬骨头的状态，小事全扔给学弟们做咯）
 - 2024 plan : Android & Flutter
 
 >I thought I were no more than a bystander Till I felt a touch so real

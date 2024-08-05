@@ -19,11 +19,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: PrimeEagle/github-profile-3d-contrib:allow-ignoring-of-languages-for-pie-chart@0.7.1
+      - uses: PrimeEagle/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          IGNORE_LANGUAGES : html
+          IGNORE_LANGUAGES : "Visual Basic.NET,Visual Basic 6.0,VBA,ASP.NET,Smalltalk,Batchfile,XSLT,TSQL,HTML,CSS,ShaderLab,HLSL,Classic ASP,Shell,GLSL,AutoIt"
       - name: Commit & Push
         run: |
           git config user.name github-actions

@@ -24,7 +24,6 @@ More details:
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" style="zoom:10%;" width="800px"/>
 
-（我还纳闷Dart占比怎么这么低，一看仓库里几年前写的Flutter项目全被自己private了，仔细思索一下这种矢还是别拿出来为好，Dart占比低就低吧（笑死））
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

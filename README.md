@@ -9,7 +9,7 @@ Most of the  repositories come from my courses task,they might work for you
 By reading my blog, you can find more things about me and my interests.
 
 - 2020.9-2024.6 Shandong University, app developer of [isdu](https://github.com/sduoffline)
-  - <img src="./image.png"/>
+  - <img src="./image.png" width="600px"/>
 - 2024.9 Beihang University
 
 >I thought I were no more than a bystander Till I felt a touch so real
